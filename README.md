@@ -5,7 +5,7 @@
 <h1 align="center">js-draw</h1>
 <div align="center">
 
-[NPM package](https://www.npmjs.com/package/js-draw) | [GitHub](https://github.com/personalizedrefrigerator/js-draw) | [Documentation](https://personalizedrefrigerator.github.io/js-draw/typedoc/modules/js-draw.html) | [Try it!](https://personalizedrefrigerator.github.io/js-draw/example/example.html)
+[NPM package](https://www.npmjs.com/package/js-draw) | [GitHub](https://github.com/personalizedrefrigerator/js-draw) | [Documentation](https://personalizedrefrigerator.github.io/js-draw/typedoc/modules/js-draw.html) | [Try it!](https://omegadiazd.github.io/js-draw/example/example.html)
 
 </div>
 
